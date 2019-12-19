@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project W3WED</string>
+    <string name="main_add_button">ADD NEW HW</string>
+    <string name="add_add_button">SUBMIT</string>
+    <string name="week">WEEK</string>
+    <string name="day">DAY</string>
+    <string name="subject">SUBJECT</string>
+    <string name="week_hint">Enter the week</string>
+    <string name="day_hint">Enter the day</string>
+    <string name="subject_hint">Enter the subject</string>
+</resources>
